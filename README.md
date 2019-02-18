@@ -22,6 +22,9 @@ Run server
 npm start
 ```
 
+I've created two functions to insert data into database. There are in /server/loaddata.js.
+If you don't have any data base, please call this two functions before continue.
+
 First of all, generate your token. You can find email and password (password is the user name) here http://www.mocky.io/v2/5808862710000087232b75ac
 
 ```
